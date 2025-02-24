@@ -10,10 +10,8 @@
 
     def save(self):
         pass
-
     def get_receipt_by_id(receipt_id):
         pass
-
     def return_book():
         pass
 
